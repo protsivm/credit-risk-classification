@@ -1,7 +1,3 @@
-# Module 12 Report Template
-
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 * The goal of this analysis is to build a model that predicts whether a loan is safe or risky. 
