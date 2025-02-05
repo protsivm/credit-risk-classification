@@ -1,7 +1,7 @@
 Module 12 
 
-Code located in ..Credit_Risk/ credit_risk_classification.ipynb 
-Analysis located in report.md 
+Code located in ..Credit_Risk/credit_risk_classification.ipynb 
+Analysis located in ..Credit_Risk/report.md 
 
 Overview of the Analysis
 The goal of this analysis is to build a model that predicts whether a loan is safe or risky. 
